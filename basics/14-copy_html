@@ -1,2 +1,2 @@
 #!/bin/bash
-cp /holbertonschool-shell/basics/*.html -exec cp /holbertonschool-shell
+cp -u /tmp/test_html/*.html /tmp/
