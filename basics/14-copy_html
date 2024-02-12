@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /holbertonschool-shell/basics file .html
+cp /holbertonschool-shell/basics/*.html -exec cp /holbertonschool-shell
