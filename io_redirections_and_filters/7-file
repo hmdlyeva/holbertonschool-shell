@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf *Best*
+echo "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:
